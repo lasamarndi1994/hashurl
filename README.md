@@ -34,6 +34,10 @@ DB_DATABASE=''
 ```
 php artisan migrate
 ```
+- Start the server
+```
+php artisan serve
+```
 
 - Hit the url on the browser 
 ```
