@@ -78,37 +78,6 @@ Consider my interest piqued
 
 It's not like anything you've seen before. The best way to understand it is to just look at the code. Strap on your snorkel, we're diving in. [documentation](https://laravel-livewire.com/)
 
-## What you need do
-
-- Download and install the composer 
-```
-composer update
-```
-
-- Reename .env.exmaple file to .env
-
-- Generate the APP_KEY through useing this command
-```php
-php artisan key:generate
-```
-- Create the data base in the MySQL
-- Add the database name in the .env file
-```
-DB_DATABASE=''
-```
-
-- Run php artisan migrate command
-```
-php artisan migrate
-```
-
-- Hit the url on the browser 
-```
-http://localhost:8000/
-```
-
-
-
 
 ## License
 
